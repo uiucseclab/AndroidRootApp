@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaliciousRoot</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Play Fake Game!</string>
+    <string name="title_activity_fake_game">FakeGameActivity</string>
+    <string name="fake_game_message">Playing fake game... while data is being exfiltrated in the background.</string>
+</resources>
